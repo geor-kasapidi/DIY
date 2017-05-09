@@ -1,0 +1,6 @@
+framework module DIY {
+  umbrella header "DIY-umbrella.h"
+
+  export *
+  module * { export * }
+}
